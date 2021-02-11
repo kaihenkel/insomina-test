@@ -1,0 +1,14 @@
+_id: env_a7cf850b509841a189d19c1d9b3c8578
+color: null
+created: 1589496011377
+data:
+  base_path: /Ruandersonvieira/Test/1.0.0
+  host: virtserver.swaggerhub.com
+  scheme: https
+dataPropertyOrder: null
+isPrivate: false
+metaSortKey: 1589496011377
+modified: 1589496011377
+name: Swagger env
+parentId: env_24d6342bda5f451c864e15b7b603b86a
+type: Environment

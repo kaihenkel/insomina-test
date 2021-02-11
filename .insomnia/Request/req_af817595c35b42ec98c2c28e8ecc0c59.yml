@@ -1,0 +1,21 @@
+_id: req_af817595c35b42ec98c2c28e8ecc0c59
+authentication: {}
+body: {}
+created: 1586889030867
+description: ""
+headers: []
+isPrivate: false
+metaSortKey: -1580730301080.5
+method: GET
+modified: 1588018170413
+name: Show
+parameters: []
+parentId: fld_be53a45d9305406ead1df1ba037f9f39
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingFollowRedirects: global
+settingRebuildPath: true
+settingSendCookies: true
+settingStoreCookies: true
+type: Request
+url: "{{ base_url  }}/{{ resource  }}/1"
