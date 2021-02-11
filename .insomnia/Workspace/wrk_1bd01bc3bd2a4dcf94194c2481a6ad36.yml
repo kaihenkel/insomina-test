@@ -1,8 +1,8 @@
 _id: wrk_1bd01bc3bd2a4dcf94194c2481a6ad36
-created: 1580339748188
-description: This is a simple API
-modified: 1589496083745
-name: Simple Inventory API 1.0.0
-parentId: null
-scope: null
 type: Workspace
+parentId: null
+modified: 1589496083745
+created: 1580339748188
+name: Simple Inventory API 1.0.0
+description: This is a simple API
+scope: null
