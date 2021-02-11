@@ -1,8 +1,10 @@
 _id: spc_2a61dac6a97e40f89353ecbd47e28ddf
 type: ApiSpec
 parentId: wrk_1bd01bc3bd2a4dcf94194c2481a6ad36
-modified: 1613039380660
+modified: 1613040967332
 created: 1613039357287
 fileName: Insomia Git Test
-contents: ""
+contents: |-
+  openapi: 3.0.3
+  title: Empty Specification
 contentType: yaml
