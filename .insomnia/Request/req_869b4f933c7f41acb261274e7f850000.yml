@@ -1,0 +1,30 @@
+_id: req_869b4f933c7f41acb261274e7f850000
+authentication: {}
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"amount": 25.00,
+    	"accepted": true
+    }
+created: 1586889282313
+description: ""
+headers:
+  - id: pair_09721a2a52d9451ea2bf1a201e620e8b
+    name: Content-Type
+    value: application/json
+isPrivate: false
+metaSortKey: -1580730301068
+method: PUT
+modified: 1587391418317
+name: Update
+parameters: []
+parentId: fld_76c063848f104b74a5431c4bba94fbdb
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingFollowRedirects: global
+settingRebuildPath: true
+settingSendCookies: true
+settingStoreCookies: true
+type: Request
+url: "{{ base_url  }}/{{ resource  }}"

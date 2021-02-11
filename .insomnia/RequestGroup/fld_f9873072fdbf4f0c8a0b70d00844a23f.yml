@@ -1,0 +1,13 @@
+_id: fld_f9873072fdbf4f0c8a0b70d00844a23f
+created: 1581554190834
+description: ""
+environment:
+  resource: avatars
+environmentPropertyOrder:
+  "&":
+    - resource
+metaSortKey: -1581554190852.75
+modified: 1588019448807
+name: Avatar
+parentId: wrk_1bd01bc3bd2a4dcf94194c2481a6ad36
+type: RequestGroup

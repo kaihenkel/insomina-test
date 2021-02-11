@@ -1,0 +1,32 @@
+_id: req_41bba70cf6ba441480bd0b72693c319e
+authentication: {}
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "",
+    	"limit_solicitations": 300,
+    	"payment": "Anual",
+    	"amount": 10
+    }
+created: 1588019887382
+description: ""
+headers:
+  - id: pair_09721a2a52d9451ea2bf1a201e620e8b
+    name: Content-Type
+    value: application/json
+isPrivate: false
+metaSortKey: -1580730301093
+method: POST
+modified: 1588020989483
+name: Store
+parameters: []
+parentId: fld_510ae20fe82a4ad5b682a922fe529d43
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingFollowRedirects: global
+settingRebuildPath: true
+settingSendCookies: true
+settingStoreCookies: true
+type: Request
+url: "{{ base_url  }}/{{ resource  }}"

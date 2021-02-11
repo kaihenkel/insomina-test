@@ -1,0 +1,31 @@
+_id: req_cb10a8b2682b4b8287ed2b094bab4acc
+authentication: {}
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name" : "Lavar Carro",
+    	"icon" : "url",
+    	"category_id": 1
+    }
+created: 1586889039906
+description: ""
+headers:
+  - id: pair_09721a2a52d9451ea2bf1a201e620e8b
+    name: Content-Type
+    value: application/json
+isPrivate: false
+metaSortKey: -1580730301093
+method: POST
+modified: 1587406813823
+name: Store
+parameters: []
+parentId: fld_0fbe9d4b1e9d497aa9f13240263b9be0
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingFollowRedirects: global
+settingRebuildPath: true
+settingSendCookies: true
+settingStoreCookies: true
+type: Request
+url: "{{ base_url  }}/{{ resource  }}"

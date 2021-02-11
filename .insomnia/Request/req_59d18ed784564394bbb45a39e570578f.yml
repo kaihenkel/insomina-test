@@ -1,0 +1,21 @@
+_id: req_59d18ed784564394bbb45a39e570578f
+authentication: {}
+body: {}
+created: 1588018192663
+description: ""
+headers: []
+isPrivate: false
+metaSortKey: -1580730301018
+method: DELETE
+modified: 1588018197008
+name: Delete
+parameters: []
+parentId: fld_0fbe9d4b1e9d497aa9f13240263b9be0
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingFollowRedirects: global
+settingRebuildPath: true
+settingSendCookies: true
+settingStoreCookies: true
+type: Request
+url: "{{ base_url  }}/{{ resource  }}/1"

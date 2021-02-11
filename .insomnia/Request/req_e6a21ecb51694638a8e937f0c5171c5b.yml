@@ -1,0 +1,23 @@
+_id: req_e6a21ecb51694638a8e937f0c5171c5b
+authentication:
+  token: ""
+  type: bearer
+body: {}
+created: 1588019887401
+description: ""
+headers: []
+isPrivate: false
+metaSortKey: -1580730301018
+method: DELETE
+modified: 1588019887401
+name: Delete
+parameters: []
+parentId: fld_510ae20fe82a4ad5b682a922fe529d43
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingFollowRedirects: global
+settingRebuildPath: true
+settingSendCookies: true
+settingStoreCookies: true
+type: Request
+url: "{{ base_url  }}/{{ resource  }}/1"
